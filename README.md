@@ -1,6 +1,6 @@
 ![logo](https://github.com/Piyusss/Piyusss/blob/main/904C53DD-CD85-4580-963E-2FB4AD095F87.jpg)
-<h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there🐼,I'm Piyush⚡</h1>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="http://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyusss&label=Profile%20views&color=0e75b6&style=flat" alt="piyusss" /> </p>
 
