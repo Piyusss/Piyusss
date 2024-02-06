@@ -1,25 +1,81 @@
-![logo](https://github.com/Piyusss/Piyusss/blob/main/904C53DD-CD85-4580-963E-2FB4AD095F87.jpg)
-<h1 align="center">Hi there🐼,I'm Piyush⚡</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="http://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyusss&label=Profile%20views&color=0e75b6&style=flat" alt="piyusss" /> </p>
+<p align="center">
+  <img src="https://github.com/Piyusss/Piyusss/blob/main/header.svg" alt="my banner"></a>
+</p>
+<br>
 
-- 📫 How to reach me **hardiscipline144@gmail.com**
+## 😄 About Me
+- 🎓 I am a second year Bachelor of Technology Electronics student at National Institute Of Technology, Jamshedpur.
+- 🌱 I am currently learning React and related technologies.
+- 🔭 I am currently working on different personal projects and learning new stuff.
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-- ⚡ Fun fact **I think I am Funny🥶**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush-raj-74211825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-raj-74211825b" height="30" width="40" /></a>
-<a href="https://instagram.com/piyusus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyusus" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pihu_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pihu_144" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/piyusus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyusus" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hardiscip1cz4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardiscip1cz4" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-raj-74211825b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Piyush Raj | LinkedIn"/></a>
+  <a href="https://linktr.ee/piyusus"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Piyush Raj | Linktree"/></a>
+  <a href="https://codeforces.com/profile/pihu_144"><img src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt="Piyush Raj | Codeforces"/></a>
+  <a href="https://leetcode.com/piyusus/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/458px-LeetCode_Logo_black_with_text.svg.png" alt="Piyush Raj | Codeforces"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyusss&show_icons=true&locale=en&layout=compact" alt="piyusss" /></p>
+## 👨‍💻 My projects
+* [Spotify 2024](https://github.com/Piyusss/Spotify-Clone) -🍄"Step into the world of music with my latest project: a frontend demonstration of a Spotify clone! Explore the interface and immerse yourself in the experience. Check it out here!"
+𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 𝗨𝘀𝗲𝗱: HTML , CSS & JS.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyusss&" alt="piyusss" /></p>
+<br>
+
+## 💼 Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,sqlite,jquery" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,vercel,atom,vscode,visualstudio,androidstudio" />
+  </a>
+</p>
+
+<br>
+
+## 📜 Coding Activity
+<!--START_SECTION:waka-->
+
+```txt
+From: 05 January 2024 - To: 04 February 2024
+
+Total Time: 55 hrs 57 mins
+
+C++          42 hrs 41 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   76.30 %
+JavaScript   12 hrs 21 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   22.10 %
+CSV          21 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.66 %
+Text         11 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.33 %
+HTML         8 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.25 %
+```
+
+<!--END_SECTION:waka-->
+
+<br>
+
+## 📈 GitHub Stats 
+[![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=Piyusss&show_icons=true&theme=dark&count_private=true)](https://github.com/Piyusss)
+
+<br>
+
+## 👀 Visitors
+<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
+![Visitors](https://moe-counter.glitch.me/get/@Piyusss?theme=rule34)
