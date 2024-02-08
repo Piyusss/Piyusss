@@ -10,8 +10,8 @@
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-raj-74211825b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Piyush Raj | LinkedIn"/></a>
-  <a href="https://linktr.ee/piyusus"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Piyush Raj | Linktree"/></a>
+  <a href="https:/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Piyush Raj | LinkedIn"/></a>
+  <a href="https://linktr.ee/"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Piyush Raj | Linktree"/></a>
   <a href="https://codeforces.com/profile/pihu_144"><img src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt="Piyush Raj | Codeforces"/></a>
   <a href="https://leetcode.com/piyusus/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/458px-LeetCode_Logo_black_with_text.svg.png" alt="Piyush Raj | Codeforces"/></a>
 </p>
