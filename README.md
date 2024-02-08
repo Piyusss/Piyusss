@@ -4,7 +4,7 @@
 <br>
 
 ## 😄 About Me
-- 🎓 I am a second year Bachelor of Technology Electronics student at National Institute Of Technology, Jamshedpur.
+- 🎓 I am a second year Bachelor of Technology Electronics student.
 - 🌱 I am currently learning React and related technologies.
 - 🔭 I am currently working on different personal projects and learning new stuff.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
