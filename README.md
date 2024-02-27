@@ -55,7 +55,17 @@
 ## 📜 Coding Activity
 <!--START_SECTION:waka-->
 
-![Snake animation](https://github.com/thepiyushmalhotra/Piyusss/blob/output/github-contribution-grid-snake.svg)
+txt
+From: 01 January 2024 - To: 27 February 2024
+
+Total Time: 62 hrs 32 mins
+
+C++                    67 hrs 43 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.71 %
+Javascript             34 hrs 48 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.28 %
+HTML                   1 hr 20 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.15 %
+CSS                    24 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.66 %
+React                  24 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.65 %
+
 
 <!--END_SECTION:waka-->
 
