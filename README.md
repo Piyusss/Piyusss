@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## 😄 About Me
+## 👨🏻‍💻 About Me
 - 🎓 I am a second year Bachelor of Technology Electronics student.
 - 🌱 I am currently learning React and related technologies.
 - 🔭 I am currently working on different personal projects and learning new stuff.
@@ -18,7 +18,7 @@
 
 <br>
 
-## 👨‍💻 My projects
+## 💆🏻‍♂ My projects
 * [Spotify 2024](https://github.com/Piyusss/Spotify-Clone) -🍄"Step into the world of music with my latest project: a frontend demonstration of a Spotify clone! Explore the interface and immerse yourself in the experience. Check it out here!"
 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 𝗨𝘀𝗲𝗱: HTML , CSS & JS.
 
@@ -55,15 +55,15 @@
 ## 📜 Coding Activity
 <!--START_SECTION:waka-->
 ```
-From: 01 January 2024 - To: 27 February 2024
+From: 01 January 2024 - To: 10 April 2024
 
 Total Time: 62 hrs 32 mins
 
 C++                    67 hrs 43 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.71 %
-Javascript             34 hrs 48 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.28 %
-HTML                   1 hr 20 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.15 %
-CSS                    24 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.66 %
-React                  24 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.65 %
+Javascript             34 hrs 48 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   93.28 %
+HTML                   1 hr 20 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   72.15 %
+CSS                    24 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   98.66 %
+React                  24 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   67.82 %
 ```
 
 <!--END_SECTION:waka-->
