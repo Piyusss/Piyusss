@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/piyush-raj-74211825b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Piyush Raj | LinkedIn"/></a>
-  <a href="https://linktr.ee/admin"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Piyush Raj | Linktree"/></a>
+  <a href="https://linktr.ee/piyusus"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Piyush Raj | Linktree"/></a>
   <a href="https://codeforces.com/profile/pihu_144"><img src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt="Piyush Raj | Codeforces"/></a>
   <a href="https://leetcode.com/piyusus/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/458px-LeetCode_Logo_black_with_text.svg.png" alt="Piyush Raj | Codeforces"/></a>
 </p>
@@ -52,7 +52,7 @@
 ## 📜 Coding Activity
 <!--START_SECTION:waka-->
 ```
-From: 01 January 2024 - To: 19 June 2024
+From: 01 January 2024 - To: 13 July 2024
 
 Total Time: 62 hrs 32 mins
 
