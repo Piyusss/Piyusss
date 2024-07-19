@@ -49,8 +49,10 @@
 <br>
 
 ## 📜 Coding Activity
+
 <!--START_SECTION:waka-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/piyusus?theme=dark&font=Poppins&ext=heatmap)
+![200](https://github.com/user-attachments/assets/e7d0bf28-7ba7-455a-b066-f4c318702754)
 
 <!--END_SECTION:waka-->
 
