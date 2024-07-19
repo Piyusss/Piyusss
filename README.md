@@ -18,7 +18,6 @@
 
 <br>
 
-
 <br>
 
 ## 💼 Technical Skills
@@ -51,24 +50,14 @@
 
 ## 📜 Coding Activity
 <!--START_SECTION:waka-->
-```
-From: 01 January 2024 - To: 13 July 2024
-
-Total Time: 62 hrs 32 mins
-
-C++                    52 hrs 43 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.71 %
-Javascript             37 hrs 48 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.28 %
-Typescript             42 hr 20 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   47.71 %
-Next.js                4 hr 18 mins    ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   18.28 %
-```
+![LeetCode Stats](https://leetcard.jacoblin.cool/piyusus?theme=dark&font=Poppins&ext=heatmap)
 
 <!--END_SECTION:waka-->
 
 <br>
 
 ## 📈 GitHub Stats 
-[![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=Piyusss&show_icons=true&theme=dark&count_private=true)](https://github.com/Piyusss)
-
+![Piyusss's Stats](https://github-readme-stats.vercel.app/api?username=Piyusss&theme=dracula&show_icons=true&hide_border=false&count_private=false)
 <br>
 
 ## 👀 Visitors
