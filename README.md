@@ -52,7 +52,7 @@
 
 <!--START_SECTION:waka-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/piyusus?theme=dark&font=Poppins&ext=heatmap)
-![200](https://github.com/user-attachments/assets/098078e5-f701-4189-bcb2-bc4b9c0dcc66)
+![ezgif-3-0f8b35c1c9](https://github.com/user-attachments/assets/a05dba50-1534-4a8e-8962-b72bca5da0af)
 
 <!--END_SECTION:waka-->
 
