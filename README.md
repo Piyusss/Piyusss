@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Piyusss/Piyusss/blob/main/header.svg" alt="my banner"></a>
-</p>
-<br>
+
+
+![mario](https://github.com/user-attachments/assets/7f15872b-0eb6-41d3-a181-5807b938481f)
 
 ## 👨🏻‍💻 About Me
 - 🎓 I am a 3rd year Bachelor of Technology Electronics student.
@@ -60,6 +59,7 @@
 
 ## 📈 GitHub Stats 
 ![Piyusss's Stats](https://github-readme-stats.vercel.app/api?username=Piyusss&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+
 <br>
 
 ## 👀 Visitors
