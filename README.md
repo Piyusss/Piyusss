@@ -1,18 +1,21 @@
 ![mario](https://github.com/user-attachments/assets/7f15872b-0eb6-41d3-a181-5807b938481f)
 ![github-user-contribution](https://github.com/user-attachments/assets/8300b12b-170c-4d4f-9d09-3aefd8974ee6)
 
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me:
 - 🎓 I am a 3rd year Bachelor of Technology Electronics student.
 - 🌱 I am currently learning Next.js and related technologies.
 - 🔭 I am currently working on different personal projects and learning new stuff.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## :mailbox: Contact:
 <p align="center">
-  <a href="https://linkedin.com/in/piyush-raj-74211825b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Piyush Raj | LinkedIn"/></a>
-  <a href="https://linktr.ee/piyusus"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Piyush Raj | Linktree"/></a>
+
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:piyushraj.code@gmail.com)
+[<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://linkedin.com/in/piyush-raj-74211825b)
+[<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://x.com/piyususs)
 </p>
 
-## 💼 Technical Skills
+## 💼 Technical Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +43,7 @@
 
 <br>
 
-## 📊 Coding Activity
+## 📊 Coding Activity:
 
 <!--START_SECTION:waka-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/piyusus?theme=dark&font=Poppins&ext=heatmap)
@@ -50,11 +53,12 @@
 
 <br>
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats:
 ![Piyusss's Stats](https://github-readme-stats.vercel.app/api?username=Piyusss&theme=dracula&show_icons=true&hide_border=false&count_private=false)
 
 <br>
 
-## 👀 Visitors
+## 👀 Visitors:
 <!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
 ![Visitors](https://moe-counter.glitch.me/get/@Piyusss?theme=rule34)
+
