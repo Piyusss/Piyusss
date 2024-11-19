@@ -4,11 +4,13 @@
 ![mario](https://github.com/user-attachments/assets/7f15872b-0eb6-41d3-a181-5807b938481f)
 ![github-user-contribution](https://github.com/user-attachments/assets/8300b12b-170c-4d4f-9d09-3aefd8974ee6)
 
-## 👨🏻‍💻 About Me:
-- 🎓 I am a 3rd year Bachelor of Technology Electronics student.
-- 🌱 I am currently learning Next.js and related technologies.
-- 🔭 I am currently working on different personal projects and learning new stuff.
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+```diff
+-👨🏻‍💻 About Me:
+🎓 I am a 3rd year Bachelor of Technology Electronics student.
+🌱 I am currently learning Next.js and related technologies.
+🔭 I am currently working on different personal projects and learning new stuff.
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+```
 
 ## :mailbox: Contact:
 <p align="center">
