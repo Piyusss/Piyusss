@@ -21,28 +21,11 @@
 </p>
 
 ## 💼 Technical Skills:
+![43572101](https://github.com/user-attachments/assets/8e4b7be1-d670-4e67-8ad1-d96aaa678849)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,sqlite,jquery" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,heroku,vercel,atom,vscode,visualstudio,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,js,kotlin,mongodb,html,ts,npm,visualstudio,react,replit,py,pr,postman" />
   </a>
 </p>
 
