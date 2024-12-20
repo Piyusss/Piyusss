@@ -21,6 +21,7 @@
 </p>
 
 ## 💼 Technical Skills:
+![43572101](https://github.com/user-attachments/assets/6bb06210-96e1-4112-a532-84aea7561877)
 
 <p align="center">
   <a href="https://skillicons.dev">
