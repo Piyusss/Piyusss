@@ -49,7 +49,6 @@
 <!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
 ![Visitors](https://moe-counter.glitch.me/get/@Piyusss?theme=rule34)
 
-![W2](https://github.com/user-attachments/assets/8051bd34-c6f2-49c5-8d3f-7e9368f00c5d)
 ![1](https://github.com/user-attachments/assets/8cbc9a7e-0358-4620-9feb-7fea3a0892ae)
 ![2](https://github.com/user-attachments/assets/e58f07ab-9914-4ef4-9a63-dddeb33a7915)
 ![10](https://github.com/user-attachments/assets/34841618-8dee-48d6-82fa-2a0a8f72d926)
@@ -65,6 +64,3 @@
 ![13](https://github.com/user-attachments/assets/b39d5244-07f0-49a2-8330-2959e3907363)
 ![14](https://github.com/user-attachments/assets/ec858940-cc43-42f7-940a-7bc63b5a1602)
 ![8](https://github.com/user-attachments/assets/6f328c60-72dd-4a98-93ab-acdd8629cb73)
-![W1](https://github.com/user-attachments/assets/a402a37d-7641-44fa-9e90-eeae1bca6a10)
-
-
