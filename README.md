@@ -31,12 +31,15 @@
 
 <br>
 
+## 📈 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/piyusus?theme=dark&font=Poppins&ext=heatmap)
+
 <br>
+
 
 ## 📈 GitHub Stats:
 ![Piyusss's Stats](https://github-readme-stats.vercel.app/api?username=Piyusss&theme=dracula&show_icons=true&hide_border=false&count_private=false)
 
-<br>
 
 ## 👀 Visitors:
 <!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
