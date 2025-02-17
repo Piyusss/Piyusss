@@ -6,9 +6,10 @@
 
 ```diff
 -👨🏻‍💻 About Me:
-🎓 I am a 3rd year Bachelor of Technology Electronics student.
-🌱 I am currently learning Next.js and related technologies.
-🔭 I am currently working on different personal projects and learning new stuff.
+🎓 I am a 3rd year Bachelor of Technology Electronics student at NIT JSR.
+🌱 I am currently learning Next.js, docker and related technologies.
+⭐ I also eager to learn System-Design principles and apply wherever possible.
+🔭 I am also working on different open-source projects right now.
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 ```
 
