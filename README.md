@@ -33,7 +33,7 @@
 <br>
 
 ## 📈 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/piyusus?theme=dark&font=Poppins&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/piy777sus?theme=dark&font=Poppins&ext=heatmap)
 
 <br>
 
