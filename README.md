@@ -18,7 +18,7 @@
 
 [<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:piyushraj.code@gmail.com)
 [<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://linkedin.com/in/piyush-raj-74211825b)
-[<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://x.com/piyususs)
+[<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://x.com/piy777sus)
 </p>
 
 ## 💼 Technical Skills:
