@@ -10,7 +10,8 @@
 🌱 I am currently learning Spring Boot, Docker, Redis, Kafka and related technologies.
 ⭐ I also eager to learn System-Design principles and apply wherever possible.
 🔭 I am also working on different open-source projects right now.
-💬 If you have any question/feedback, please do not hesitate to reach out to me! 
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 ```
 
 ## :mailbox: Contact:
