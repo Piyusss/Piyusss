@@ -1,16 +1,16 @@
 ```diff
-+ Hii, I am piyush. I do love Competitive Programming,creating premium content out of it and developing web-applications as well.
++ Hii, I am piyush. I do love Competitive Programming, creating premium content out of it and developing web-applications as well.
 ```
 ![mario](https://github.com/user-attachments/assets/7f15872b-0eb6-41d3-a181-5807b938481f)
 ![github-user-contribution](https://github.com/user-attachments/assets/8300b12b-170c-4d4f-9d09-3aefd8974ee6)
 
 ```diff
--👨🏻‍💻 About Me:
-🎓 I am a 4th year Bachelor of Technology Electronics student at NIT JSR.
-🌱 I am currently learning Spring Boot, Docker, Redis, Kafka and related technologies.
-⭐ I also eager to learn System-Design principles and apply wherever possible.
-🔭 I am also working on different open-source projects right now.
-💬 If you have any question/feedback, please do not hesitate to reach out to me! 
+👨🏻‍💻 About Me:
+🎓 I’m a final-year Electronics Engineering student at NIT JSR passionate about Software Development and System Design.
+🚀 Currently exploring technologies like Spring Boot, Docker, Redis, and Kafka, while strengthening my backend development skills.
+💡 Enthusiastic about Open Source, actively contributing to projects on GitHub and collaborating with the developer community.
+🧠 I’m also diving deeper into System Design principles and applying them to build scalable applications.
+💬 Always open to discussing tech, open-source contributions, or exciting project ideas — feel free to connect or drop a message!
 
 ```
 
