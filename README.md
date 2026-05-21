@@ -32,11 +32,3 @@
 </p>
 
 <br>
-
-## 📈 GitHub Stats:
-![Piyusss's Stats](https://github-readme-stats.vercel.app/api?username=Piyusss&theme=dracula&show_icons=true&hide_border=false&count_private=false)
-
-
-## 👀 Visitors:
-<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
-![Visitors](https://moe-counter.glitch.me/get/@Piyusss?theme=rule34)
