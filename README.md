@@ -16,7 +16,7 @@
 ```
 <div align="center">
   <img width="1983" height="793" alt="utytyu" src="https://github.com/user-attachments/assets/10ac2f6e-c18c-4f87-8321-415f15457e13" />
-</div>
+</div><br>
 
 - 🎓 **NIT Jamshedpur**
 - 🚀 **Spring Boot · Kafka · Redis · Docker**
