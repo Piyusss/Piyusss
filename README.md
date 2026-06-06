@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-90b6-26f5ce1f3fc5.gif" width="100%" />
 
-### 👨‍💻 About
+### 🤷🏻‍♂️ About
 
 ```diff
 + Hi! I build things that are fast, scalable, and clean.
