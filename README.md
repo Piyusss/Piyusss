@@ -5,7 +5,6 @@
 <div align="center">
 
 
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-90b6-26f5ce1f3fc5.gif" width="100%" />
@@ -16,7 +15,7 @@
 + Hi! I build things that are fast, scalable, and clean.
 ```
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8e4b7be1-d670-4e67-8ad1-d96aaa678849" />
+  <img width="1983" height="793" alt="utytyu" src="https://github.com/user-attachments/assets/10ac2f6e-c18c-4f87-8321-415f15457e13" />
 </div>
 
 - 🎓 **NIT Jamshedpur**
@@ -68,7 +67,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-90b6-26f5ce1f3fc5.gif" width="100%" />
 
 <div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"Think so hard you forgot what was the problem."</i>
 </div>
 
 <div align="center">
